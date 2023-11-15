@@ -13,6 +13,6 @@ void uoc(long n){
 }
 int main(){
 long n;
-scanf("%lld",&n);
+scanf("%ld",&n);
 uoc(n);
 return 0;}
